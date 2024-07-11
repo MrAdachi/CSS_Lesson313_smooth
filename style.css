@@ -1,0 +1,40 @@
+html {
+    scroll-behavior: smooth;
+    min-height: 2000px;
+}
+
+.linkBox {
+    padding: 50px 30px;
+    background-color: #c8c8c8;
+}
+
+.linkBox li {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.linkBox li:last-child {
+    margin-bottom: 0;
+}
+
+.linkBox li a {
+    text-decoration: none;
+}
+
+.box {
+    display: block;
+    padding: 50px 30px 200px;
+    color: #fff;
+}
+
+#box1 {
+    background-color: #0050b7;
+}
+
+#box2 {
+    background-color: #e11cba;
+}
+
+#box3 {
+    background-color: #04600e;
+}
